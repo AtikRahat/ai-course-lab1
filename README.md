@@ -17,3 +17,7 @@ pip install -r requirements.txt
 - `notebooks/`       exploration
 - `src/`             reusable code
 - `tests/`           tests
+
+## Usage
+
+Open `notebooks/` in VS Code or Jupyter and select the `.venv` kernel.
